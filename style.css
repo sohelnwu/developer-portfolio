@@ -11,6 +11,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -19,7 +20,7 @@ section{
 .half-width img{
     width: 70%;
 }
-.hire-me{
+.link-button{
     text-decoration: none;
     background-color: orange;
     padding: 10px 40px;
